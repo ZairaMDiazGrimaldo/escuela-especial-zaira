@@ -1,0 +1,148 @@
+@charset "utf-8";
+/* CSS Document */
+
+}
+#contenido {
+	height: 93px;
+	width: 100%;
+}
+#encabezado {
+	height: 35px;
+	width: 395px;
+	margin-top: 12px;
+	margin-left: 280px;
+	margin-right: 380px;
+	margin-bottom: 0px;
+}
+#encabezado {
+	height: 80px;
+	width: 800px;
+}
+#logo {
+	height: 82px;
+	width: 331px;
+}#menu {
+	height: 40px;
+	width: 381px;
+	float: right;
+	font-size: 14px;
+	font-family:Verdana, Geneva, sans-serif;
+}
+#menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#menu ul li {
+	float: left;
+	margin-top: 26px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#menu a{
+	color: #000;
+	text-decoration: none;
+	display: block;
+	padding: 12px 16px;
+}
+#menu ul li a:hover{
+	color: #000;
+	text-decoration: none;
+	display: block;
+	padding: 12px 16px;
+	background-image: url(../imagenes/bg-boton.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+#cuerpo {
+	height: 1170px;
+	width: 100%;
+}
+#cuerpoderecho {
+	margin-top: 500px;
+	margin-left: 800px;
+	margin-right: 70px;
+	float: left;
+	height: 600px;
+	width: 450px;
+}
+h1 {
+	font-family: "Comic Sans MS", cursive;
+	font-weight: normal;
+	font-size: 30px;
+}
+.txtgris {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #756b61;
+	font-size: 12pt;
+	
+}
+.txtnegro {
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: normal;
+	font-size: 30px;
+	color: #000;
+}
+#cuerpo {
+	height: 1170px;
+	width: 100%;
+	background-image: url(../imagenes/bg-contenido.gif);
+}
+#pie {
+	background-color: #5d802c;
+	width: 100%;
+	height: 270px;
+	color: #374718;
+}
+#siguenos {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #374718;
+	padding-top: 15px;
+	font-size: 16pt;
+	width: 100%;
+	padding-left: 60px;
+}
+#fondo {
+	background-image: url(../imagenes/bg-homepage-1.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 1170px;
+	width: 100%;
+}
+#redes {
+	margin-left: 60px;
+	margin-top: 20px;
+	width: 45px;
+}
+#rds {
+	width: 120px;
+	float: right;
+	padding-top: 0px;
+	height: 165px;
+	margin-right: 1250px;
+}
+#legal {
+	color: #374718;
+	padding-left: 550px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+#rds ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#rds ul li {
+	float: left;
+	margin-top: 8px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#rds a{
+	color: #374718;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	text-decoration: none;
+	display: block;
+	padding: 11px 16px;
